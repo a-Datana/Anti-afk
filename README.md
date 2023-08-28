@@ -34,7 +34,7 @@ If you have any ideas, suggestions, or bug fixes, please feel free to contribute
 - Push your changes to your forked repository.
 - Submit a pull request to the main repository.
 
-We appreciate any contributions and will review and merge them if they align with the project's goals. 
+I appreciate any contributions and will review and merge them if they align with the project's goals. 
 Thank you for considering contributing to this project!
 
 
