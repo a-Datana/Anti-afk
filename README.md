@@ -19,8 +19,7 @@ This software uses:
 - pynput
 
 
-Optional - Create Virtual Env Step:
-"python3 -m venv ./Anti-afk"
+Optional - Create Virtual Env Step: "python3 -m venv ./Anti-afk" <br> 
 "pip install -r requirements.txt"
 
 
