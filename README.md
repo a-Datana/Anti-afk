@@ -10,7 +10,7 @@ I have built this into my autostart process. I think AFK detection is an annoyan
 ## main_ui.py
 Same as above but with changeable min and max time. Pressing the "Start Script" button closes the window and runs the script.
 
-# Closing the script
+## Closing the script
 The script can be stopped either via the task manager or by pressing LShift + Escape together, after which it finishes its iterations.
 
 # Dependencies
